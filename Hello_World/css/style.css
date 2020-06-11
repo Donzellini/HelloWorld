@@ -1,0 +1,42 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Press Start 2P', cursive;
+    color: white;
+    margin: 0;
+    background-color: #09242b;
+}
+
+.title {
+    display: flex;
+}
+
+.title__1 {
+    margin-top: 22%;
+    margin-left: 20%;
+}
+
+.title__img img {
+    display: flex;
+    width: 360px;
+    height: 360px;
+    margin-top: 38%;
+    margin-left: 20%;
+}
+
+footer {
+    font-size: smaller;
+    display: flex;
+    margin-left: 24%;
+    margin-top: 5%;
+}
+
+.copyright {
+    padding: 50px;
+}
+
+.copyright__t {
+    padding: 50px;
+}
